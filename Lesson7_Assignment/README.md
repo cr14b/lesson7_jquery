@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March, 31, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Claudia Reoyo)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment, I created an application that allows the user to toggle the page and make the applciation interactive for the user.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://cr14b.github.io/lesson7_jquery/Lesson7_Assignment/index.html)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned to access elements using jQuery syntax)
+2. (I learned to use built-in jQuery syntax)
+3. (I learned to use jQuery to respond to the users' requests)

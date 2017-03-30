@@ -1,0 +1,7 @@
+I created a sugar cookie recipe application.
+
+The changes are made for user and asthetic reasons. I did not like the slow toggle and animation so I made it fast. 
+I also removed one of the highlights because it is unnecessary and looked a bit tacky.
+I also added a picture of a sugar cookie because it is a sugar cookie recipe.
+
+To be easier on the eyes, I also created a different css file and changed the colors.
